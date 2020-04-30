@@ -28,7 +28,7 @@
     "devextreme": "19.2.5",
     "devextreme-angular": "19.2.5",
     "devextreme-schematics": "^1.0.12",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "oidc-client": "^1.9.0",
     "popper.js": "^1.14.3",
     "rxjs": "^6.4.0",
